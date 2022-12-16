@@ -1073,9 +1073,9 @@
 			productReference = 5450B0431E63EA4300568494 /* IJKMediaFrameworkWithSSL.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		E654EA891B6B27E600B0F2D0 /* IJKMediaFrameworkTVOS */ = {
+		E654EA891B6B27E600B0F2D0 /* IJKMediaFramework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E654EAA11B6B27E600B0F2D0 /* Build configuration list for PBXNativeTarget "IJKMediaFrameworkTVOS" */;
+			buildConfigurationList = E654EAA11B6B27E600B0F2D0 /* Build configuration list for PBXNativeTarget "IJKMediaFramework" */;
 			buildPhases = (
 				544E73271D93DEF4005CA5D9 /* ijkversion.h */,
 				E654EA851B6B27E600B0F2D0 /* Sources */,
@@ -1087,7 +1087,7 @@
 			);
 			dependencies = (
 			);
-			name = IJKMediaFrameworkTVOS;
+			name = IJKMediaFramework;
 			productName = IJKMediaFramework;
 			productReference = E654EA8A1B6B27E600B0F2D0 /* IJKMediaPlayer.framework */;
 			productType = "com.apple.product-type.framework";
@@ -1140,7 +1140,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E654EA891B6B27E600B0F2D0 /* IJKMediaFrameworkTVOS */,
+				E654EA891B6B27E600B0F2D0 /* IJKMediaFramework */,
 				5450AFC11E63EA4300568494 /* IJKMediaFrameworkWithSSL */,
 				E654EA931B6B27E600B0F2D0 /* IJKMediaFrameworkTests */,
 			);
@@ -1401,7 +1401,7 @@
 /* Begin PBXTargetDependency section */
 		E654EA971B6B27E600B0F2D0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E654EA891B6B27E600B0F2D0 /* IJKMediaFrameworkTVOS */;
+			target = E654EA891B6B27E600B0F2D0 /* IJKMediaFramework */;
 			targetProxy = E654EA961B6B27E600B0F2D0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1758,7 +1758,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E654EAA11B6B27E600B0F2D0 /* Build configuration list for PBXNativeTarget "IJKMediaFrameworkTVOS" */ = {
+		E654EAA11B6B27E600B0F2D0 /* Build configuration list for PBXNativeTarget "IJKMediaFramework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E654EA9D1B6B27E600B0F2D0 /* Debug */,
